@@ -91,7 +91,7 @@ The platform uses a **React + Vite based frontend** to deliver a responsive and 
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![RestAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=restapi\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Artificial Intelligence / Machine Learning
 
