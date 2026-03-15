@@ -210,8 +210,6 @@ Steps to contribute:
 
 ---
 
----
-
 # 👨‍💻 Authors
 
 Developed by the **CropPilot Team**
