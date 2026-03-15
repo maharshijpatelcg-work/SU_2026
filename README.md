@@ -52,9 +52,7 @@ Machine Learning and Deep Learning models are used to analyze crop images and pr
 ## Frontend
 
 * Vite
-* HTML5
-* CSS3
-* JavaScript
+* ReactJs
 
 ## Backend
 
