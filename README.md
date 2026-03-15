@@ -1,16 +1,16 @@
-# 🌾 CropPilot – AI Powered Agriculture Intelligence Platform
+# CropPilot – AI Powered Agriculture Intelligence Platform
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=AI+Powered+Agriculture+Platform;Smart+Crop+Detection+System;Plant+Disease+Analysis+with+AI;Precision+Farming+Technology"/>
 </p>
 
 <p align="center">
-AI + Agriculture Innovation Platform for Smart Farming 🌱
+AI + Agriculture Innovation Platform for Smart Farming
 </p>
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 CropPilot is an **AI-powered agriculture platform** designed to help farmers, researchers, and agricultural professionals make **data-driven farming decisions** using **Artificial Intelligence, Computer Vision, and Data Analytics**.
 
@@ -18,47 +18,47 @@ The platform provides **smart crop detection, plant disease analysis, and predic
 
 ---
 
-## 🧠 AI Capabilities
+## AI Capabilities
 
-✔ Crop Classification
-✔ Plant Disease Detection
-✔ Image-based Crop Health Analysis
-✔ Smart Agricultural Predictions
-✔ Precision Farming Insights
+Crop Classification
+Plant Disease Detection
+Image-based Crop Health Analysis
+Smart Agricultural Predictions
+Precision Farming Insights
 
 Machine Learning and Deep Learning models analyze crop images and provide **accurate agricultural intelligence**.
 
 ---
 
-## 🌟 Features
+## Features
 
-### 🌱 Crop Detection
+### Crop Detection
 
 Upload crop images and identify plant types using **AI-based image recognition models**.
 
-### 🦠 Disease Detection
+### Disease Detection
 
 Detect crop diseases at an early stage using **computer vision and deep learning models**.
 
-### 📊 Smart Analytics
+### Smart Analytics
 
 Analyze crop health and provide **data-driven insights** to improve farming productivity.
 
-### 🛰 Precision Agriculture
+### Precision Agriculture
 
 AI-driven predictions to support **modern farming techniques and yield optimization**.
 
-### ⚡ High Performance Backend
+### High Performance Backend
 
 Fast and scalable APIs built using **FastAPI** for real-time crop analysis.
 
-### 🎨 Modern UI
+### Modern UI
 
 Responsive and visually attractive **React + Vite interface** designed for accessibility.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -77,7 +77,7 @@ Responsive and visually attractive **React + Vite interface** designed for acces
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 CropPilot
@@ -106,9 +106,9 @@ CropPilot
 
 ---
 
-## ⚙️ Installation Guide
+## Installation Guide
 
-### 1️⃣ Clone Repository
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/CropPilot.git
@@ -117,7 +117,7 @@ cd CropPilot
 
 ---
 
-### 2️⃣ Run Frontend
+### 2. Run Frontend
 
 ```bash
 cd frontend
@@ -133,7 +133,7 @@ http://localhost:5173
 
 ---
 
-### 3️⃣ Run Backend
+### 3. Run Backend
 
 ```bash
 cd backend
@@ -149,7 +149,7 @@ http://localhost:8000
 
 ---
 
-## 🔌 API Documentation
+## API Documentation
 
 FastAPI automatically generates API documentation.
 
@@ -169,7 +169,7 @@ http://localhost:8000/docs
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Add screenshots of the system interface.
 
@@ -182,19 +182,19 @@ Add screenshots of the system interface.
 
 ---
 
-## 🌍 Use Cases
+## Use Cases
 
 CropPilot can be used by:
 
-🌾 Farmers monitoring crop health
-🔬 Agricultural researchers
-📊 Smart farming systems
-🤖 AI-based agricultural analysis platforms
-🏆 Agriculture hackathon projects
+Farmers monitoring crop health
+Agricultural researchers
+Smart farming systems
+AI-based agricultural analysis platforms
+Agriculture hackathon projects
 
 ---
 
-## 🏆 Hackathon Project
+## Hackathon Project
 
 CropPilot was developed as part of an **Agriculture AI Hackathon** to demonstrate how **Artificial Intelligence can transform modern farming**.
 
@@ -202,9 +202,9 @@ The platform focuses on improving agricultural productivity through **intelligen
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome!
+Contributions are welcome.
 
 Steps:
 
@@ -216,14 +216,14 @@ Steps:
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 **CropPilot Team**
 
-B.Tech Students | AI + Agriculture Innovation 🌾
+B.Tech Students | AI + Agriculture Innovation
 
 ---
 
 <p align="center">
-Made with ❤️ for Smart Farming
+Made with love for Smart Farming
 </p>
