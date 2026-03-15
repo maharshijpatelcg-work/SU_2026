@@ -256,12 +256,6 @@ Steps to contribute:
 
 ---
 
-## License
-
-This project is released under the **MIT License**.
-
----
-
 <p align="center">
 CropPilot | AI Driven Agriculture Intelligence Platform
 </p>
