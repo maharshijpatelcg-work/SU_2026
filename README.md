@@ -12,7 +12,7 @@ AI Powered Platform for Smart Farming and Crop Yield Intelligence
 
 ## Project Overview
 
-CropPilot is an **AI-powered agriculture platform** developed to assist farmers, researchers, and agricultural professionals in making **data-driven farming decisions** using **Artificial Intelligence, Remote Sensing, Computer Vision, and Data Analytics**.
+CropPilot is an **AI-powered agriculture platform** developed to assist farmers, researchers, and agricultural professionals in making **data-driven farming decisions** using **Artificial Intelligence , and Data Analytics**.
 
 The system analyzes crop images, environmental data, and satellite information to provide **crop detection, plant disease analysis, and crop yield prediction** through a modern web interface.
 
@@ -65,7 +65,7 @@ The system detects plant diseases at an early stage using **computer vision and 
 
 ### Crop Yield Prediction
 
-Using **remote sensing data and predictive AI models**, the platform estimates potential crop yield.
+Using **rpredictive AI models**, the platform estimates potential crop yield.
 
 ### Smart Agricultural Analytics
 
