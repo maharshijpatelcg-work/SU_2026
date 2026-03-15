@@ -57,13 +57,11 @@ Machine Learning and Deep Learning models are used to analyze crop images and pr
 ## Backend
 
 * Python
-* FastAPI
 * REST API
 
 ## AI / Machine Learning
 
 * TensorFlow / PyTorch
-* Computer Vision
 * Image Processing Models
 
 ---
