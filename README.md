@@ -1,64 +1,87 @@
 # CropPilot – AI Powered Agriculture Intelligence Platform
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=AI+Powered+Agriculture+Platform;Smart+Crop+Detection+System;Plant+Disease+Analysis+with+AI;Precision+Farming+Technology"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=AI+Powered+Agriculture+Platform;Remote+Sensing+Based+Crop+Prediction;Plant+Disease+Analysis+with+AI;Precision+Farming+Technology"/>
 </p>
 
 <p align="center">
-AI + Agriculture Innovation Platform for Smart Farming
+AI Powered Platform for Smart Farming and Crop Yield Intelligence
 </p>
 
 ---
 
 ## Project Overview
 
-CropPilot is an **AI-powered agriculture platform** designed to help farmers, researchers, and agricultural professionals make **data-driven farming decisions** using **Artificial Intelligence, Computer Vision, and Data Analytics**.
+CropPilot is an **AI-powered agriculture platform** developed to assist farmers, researchers, and agricultural professionals in making **data-driven farming decisions** using **Artificial Intelligence, Remote Sensing, Computer Vision, and Data Analytics**.
 
-The platform provides **smart crop detection, plant disease analysis, and predictive agricultural insights** through a modern and user-friendly web interface.
+The system analyzes crop images, environmental data, and satellite information to provide **crop detection, plant disease analysis, and crop yield prediction** through a modern web interface.
+
+The goal of the platform is to support **smart farming practices in semi-arid agricultural regions such as Rajasthan**.
+
+---
+
+## Problem Statement
+
+**PS-003 – Agriculture**
+
+**Remote Sensing & AI for Crop Yield Prediction**
+
+How can **remote sensing and artificial intelligence** be used to **predict crop yield and optimize farming practices in Rajasthan's semi-arid regions**?
+
+CropPilot addresses this challenge by combining:
+
+* Satellite data and remote sensing
+* Artificial intelligence models
+* Image-based crop monitoring
+* Predictive agricultural analytics
+
+These technologies enable **early insights about crop health and expected yield**, allowing farmers to make better agricultural decisions.
 
 ---
 
 ## AI Capabilities
 
-Crop Classification
-Plant Disease Detection
-Image-based Crop Health Analysis
-Smart Agricultural Predictions
-Precision Farming Insights
+CropPilot integrates advanced artificial intelligence models for:
 
-Machine Learning and Deep Learning models analyze crop images and provide **accurate agricultural intelligence**.
+* Crop classification
+* Plant disease detection
+* Image-based crop health analysis
+* Crop yield prediction
+* Precision farming insights
+
+Machine learning and deep learning models analyze agricultural data to provide **accurate crop intelligence and predictions**.
 
 ---
 
-## Features
+## Key Features
 
 ### Crop Detection
 
-Upload crop images and identify plant types using **AI-based image recognition models**.
+Users can upload crop images and identify plant types using **AI-based image recognition models**.
 
 ### Disease Detection
 
-Detect crop diseases at an early stage using **computer vision and deep learning models**.
+The system detects plant diseases at an early stage using **computer vision and deep learning techniques**.
 
-### Smart Analytics
+### Crop Yield Prediction
 
-Analyze crop health and provide **data-driven insights** to improve farming productivity.
+Using **remote sensing data and predictive AI models**, the platform estimates potential crop yield.
 
-### Precision Agriculture
+### Smart Agricultural Analytics
 
-AI-driven predictions to support **modern farming techniques and yield optimization**.
+The platform provides **data-driven insights** to improve agricultural productivity and farming efficiency.
 
 ### High Performance Backend
 
-Fast and scalable APIs built using **FastAPI** for real-time crop analysis.
+Fast and scalable APIs are developed using **FastAPI** to support real-time crop analysis.
 
-### Modern UI
+### Modern User Interface
 
-Responsive and visually attractive **React + Vite interface** designed for accessibility.
+The platform uses a **React + Vite based frontend** to deliver a responsive and user-friendly experience.
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 ### Frontend
 
@@ -70,10 +93,17 @@ Responsive and visually attractive **React + Vite interface** designed for acces
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### AI / Machine Learning
+### Artificial Intelligence / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### Data Sources
+
+* Remote sensing data
+* Satellite imagery
+* Crop datasets
+* Agricultural environmental data
 
 ---
 
@@ -93,7 +123,7 @@ CropPilot
 │   └── services
 │
 ├── models
-│   └── AI models for crop detection
+│   └── AI models for crop detection and prediction
 │
 ├── dataset
 │   └── crop training data
@@ -108,7 +138,7 @@ CropPilot
 
 ## Installation Guide
 
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/CropPilot.git
@@ -117,7 +147,7 @@ cd CropPilot
 
 ---
 
-### 2. Run Frontend
+### Run Frontend
 
 ```bash
 cd frontend
@@ -125,7 +155,7 @@ npm install
 npm run dev
 ```
 
-Frontend will run at:
+Frontend runs at:
 
 ```
 http://localhost:5173
@@ -133,7 +163,7 @@ http://localhost:5173
 
 ---
 
-### 3. Run Backend
+### Run Backend
 
 ```bash
 cd backend
@@ -141,7 +171,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-Backend will run at:
+Backend runs at:
 
 ```
 http://localhost:8000
@@ -153,52 +183,62 @@ http://localhost:8000
 
 FastAPI automatically generates API documentation.
 
-Access it here:
+Access the API documentation at:
 
 ```
 http://localhost:8000/docs
 ```
 
-### Example Endpoints
+Example endpoints:
 
 | Endpoint | Method | Description            |
 | -------- | ------ | ---------------------- |
 | /health  | GET    | API health check       |
 | /detect  | POST   | Detect crop from image |
-| /predict | POST   | AI prediction          |
+| /predict | POST   | AI crop prediction     |
 
 ---
 
 ## Screenshots
 
-Add screenshots of the system interface.
+Screenshots of the platform interface can be added here.
 
 ```
 /screenshots/landing-page.png
 /screenshots/login-page.png
 /screenshots/crop-detection.png
-/screenshots/ai-results.png
+/screenshots/prediction-results.png
 ```
 
 ---
 
 ## Use Cases
 
-CropPilot can be used by:
+CropPilot can support multiple agricultural stakeholders including:
 
-Farmers monitoring crop health
-Agricultural researchers
-Smart farming systems
-AI-based agricultural analysis platforms
-Agriculture hackathon projects
+* Farmers monitoring crop health
+* Agricultural researchers studying crop patterns
+* Smart farming systems
+* AI-driven agricultural platforms
+* Hackathon and research projects focused on agriculture technology
 
 ---
 
 ## Hackathon Project
 
-CropPilot was developed as part of an **Agriculture AI Hackathon** to demonstrate how **Artificial Intelligence can transform modern farming**.
+This project was developed for an **Agriculture Innovation Hackathon**.
 
-The platform focuses on improving agricultural productivity through **intelligent crop monitoring and predictive analytics**.
+It focuses on applying **Artificial Intelligence and Remote Sensing technologies to solve real agricultural problems in Rajasthan's semi-arid regions**.
+
+The goal is to enable **smarter farming decisions, better crop monitoring, and improved yield prediction**.
+
+---
+
+## Team
+
+Team Name: **LOSE CODERS**
+
+This project was developed by the **LOSE CODERS team** as part of a technology innovation challenge focused on agriculture and artificial intelligence.
 
 ---
 
@@ -206,7 +246,7 @@ The platform focuses on improving agricultural productivity through **intelligen
 
 Contributions are welcome.
 
-Steps:
+Steps to contribute:
 
 1. Fork the repository
 2. Create a feature branch
@@ -216,14 +256,12 @@ Steps:
 
 ---
 
-## Authors
+## License
 
-**CropPilot Team**
-
-B.Tech Students | AI + Agriculture Innovation
+This project is released under the **MIT License**.
 
 ---
 
 <p align="center">
-Made with love for Smart Farming
+CropPilot | AI Driven Agriculture Intelligence Platform
 </p>
