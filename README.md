@@ -1,6 +1,6 @@
-# 🌾 CropSphere – AI Powered Agriculture Intelligence Platform
+# 🌾 CropPilot – AI Powered Agriculture Intelligence Platform
 
-CropSphere is an AI-powered agriculture platform designed to help farmers, researchers, and agricultural professionals make better farming decisions using Artificial Intelligence, Computer Vision, and Data Analytics.
+CropPilot is an AI-powered agriculture platform designed to help farmers, researchers, and agricultural professionals make better farming decisions using Artificial Intelligence, Computer Vision, and Data Analytics.
 
 The platform enables smart crop detection, plant disease analysis, and agricultural insights through a modern and easy-to-use web interface.
 
@@ -36,7 +36,7 @@ Responsive and visually attractive frontend interface designed for accessibility
 
 # 🧠 AI Capabilities
 
-CropSphere integrates advanced Artificial Intelligence technologies including:
+CropPilot integrates advanced Artificial Intelligence technologies including:
 
 * Crop Classification
 * Plant Disease Detection
@@ -73,7 +73,7 @@ Machine Learning and Deep Learning models are used to analyze crop images and pr
 # 📂 Project Structure
 
 ```
-CropSphere
+CropPilot
 │
 ├── frontend
 │   ├── src
@@ -104,8 +104,8 @@ CropSphere
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/cropsphere.git
-cd cropsphere
+git clone https://github.com/your-username/CropPilot.git
+cd CropPilot
 ```
 
 ---
@@ -182,7 +182,7 @@ Example:
 
 # 🌍 Use Cases
 
-CropSphere can be used by:
+CropPilot can be used by:
 
 * Farmers for monitoring crop health
 * Agricultural researchers
@@ -194,7 +194,7 @@ CropSphere can be used by:
 
 # 🏆 Hackathon Project
 
-CropSphere was developed as part of an **Agriculture AI Hackathon** to demonstrate how Artificial Intelligence can transform modern farming.
+CropPilot was developed as part of an **Agriculture AI Hackathon** to demonstrate how Artificial Intelligence can transform modern farming.
 
 The platform focuses on improving agricultural productivity through intelligent crop monitoring and predictive analytics.
 
@@ -222,6 +222,6 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Authors
 
-Developed by the **CropSphere Team**
+Developed by the **CropPilot Team**
 
 AI + Agriculture Innovation 🌾
